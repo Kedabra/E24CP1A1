@@ -10,8 +10,8 @@ $(function(){
       $('#red').css('color', cssRed);
       $('#green').css('color', cssGreen);
       $('#blue').css('color', cssBlue);
-      $('#cuadradito').css('background-color', cssRgb);
-      $('#textito').html(cssRgb);
+      $('#cuadro').css('background-color', cssRgb);
+      $('#texto').html(cssRgb);
     }
   });
 });
